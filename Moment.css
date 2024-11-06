@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #333;
-    color: #fff;
+    background-color:papayawhip;
+    color: brown;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 4px 2px 2px 2px  rgba(245, 180, 199, 0.952);
+    box-shadow: 4px 2px 2px 2px  rgb(221, 90, 90);
     
     /* border: 5px solid whitesmoke; */
 }
